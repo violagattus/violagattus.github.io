@@ -6,7 +6,10 @@
   z-index: 1; /* Stay on top */
   top: 30px; /* Stay at the top */
   left: 0;
+  background: linear-gradient(to top, #24486A,#6DA6E3);
+/*
   background-color: #6DA6E3; /* Black */
+*/
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 40px;
   padding-left: auto;
@@ -194,7 +197,7 @@ code {font-size: 10pt;}
 	width: 100%;
 	display: block;
 	font-size: 16pt;
-	background: linear-gradient(to bottom, #3972A8,#284664);
+	background: linear-gradient(to top, #24486A,#6DA6E3);
 	color: white;
 	border-radius: 4px;
 	margin-bottom: 12px;
